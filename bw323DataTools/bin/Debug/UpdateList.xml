@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoUpdater>
+  <UpdateFileList>
+    <UpdateFile Ver="1.0.0.0" FileName="Midea.Mes.Frm.exe" ContentLength="7680" />
+    <UpdateFile Ver="1.0.0.0" FileName="Midea.Mes.Frm.exe.config" ContentLength="189" />
+  </UpdateFileList>
+  <URLAddress URL="http://update.bw.wpgood.net/bw323dts/" />
+  <UpdateInfo>
+    <Version Num="1.0.0.11" />
+    <UpdateTime Date="2022-06-21 23:13:37" />
+  </UpdateInfo>
+</AutoUpdater>

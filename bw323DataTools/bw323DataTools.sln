@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bw323DataTools", "bw323DataTools.csproj", "{83A72BE9-206E-43D3-9F76-9751C37BCE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A72BE9-206E-43D3-9F76-9751C37BCE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A72BE9-206E-43D3-9F76-9751C37BCE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A72BE9-206E-43D3-9F76-9751C37BCE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A72BE9-206E-43D3-9F76-9751C37BCE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55C5D94-F333-436C-BB4E-03590F2B3762}
+	EndGlobalSection
+EndGlobal
